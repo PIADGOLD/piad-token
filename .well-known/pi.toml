@@ -1,0 +1,20 @@
+[[CURRENCIES]]
+code="PIADGOLD1"
+issuer="GASIBG4FDNOLQX5YIKYDZCSN4RMTD6H243VMPY7SKJDFBENYUOSTW4N6"
+name="PIAD GOLD SERIES1 TOKEN"
+desc="PIAD Gold Series 1 Token - $10 per token, Total Supply 80,000,000. Premium utility token in Pi ecosystem."
+image="https://piadseriestoken.com/images/PIAD-GOLD-SERIES1-TOKEN.jpg"
+
+[[CURRENCIES]]
+code="PIADSILVER1"
+issuer="GASIBG4FDNOLQX5YIKYDZCSN4RMTD6H243VMPY7SKJDFBENYUOSTW4N6"
+name="PIAD SILVER SERIES1 TOKEN"
+desc="PIAD Silver Series 1 Token - $5 per token, Total Supply 40,000,000. Mid-tier utility token in Pi ecosystem."
+image="https://piadseriestoken.com/images/PIAD-SILVER-SERIES1-TOKEN.jpg"
+
+[[CURRENCIES]]
+code="PIADCOPPER1"
+issuer="GASIBG4FDNOLQX5YIKYDZCSN4RMTD6H243VMPY7SKJDFBENYUOSTW4N6"
+name="PIAD COPPER SERIES1 TOKEN"
+desc="PIAD Copper Series 1 Token - $1 per token, Total Supply 160,000,000. Entry-level utility token in Pi ecosystem."
+image="https://piadseriestoken.com/images/PIAD-COPPER-SERIES1-TOKEN.jpg"
